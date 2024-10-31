@@ -3,13 +3,20 @@ from commands import Command
 class DivideCommand(Command):
     def execute(self, params):
         if len(params) != 2:
-            raise ValueError("Divide command requires exactly two arguments.")
+            print("Error: Need two arguments.")
+            return None
         
-        a, b = params
         try:
-            result = int(a) / int(b)
+            a = int(params[0])  
+            b = int(params[1])              
+            if b == 0:
+                print("Error: Cannot divide by zero.")
+                return None
+            
+            result = a / b  
             print(result)  
             return result
-        except ZeroDivisionError:
-            print("Error: Cannot divide by zero.")
+        
+        except ValueError:
+            print("Error: Provide two valid numbers.")
             return None

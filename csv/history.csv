@@ -1,2 +1,2 @@
-command, num1, num2,num1,num2
-add,,,3,3
+Command,Parameter 1,Parameter 2,Result,command
+,,,,clear_history

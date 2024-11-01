@@ -14,7 +14,7 @@ from plugins.read_history import ReadHistoryCommand
 
 class Main:
     def __init__(self):
-        self.command_list = {
+        self.command_list = { #adding all essential commands from plugins
             "add": AddCommand(),
             "subtract": SubtractCommand(),
             "multiply": MultiplyCommand(),
@@ -23,7 +23,7 @@ class Main:
             "read_history": ReadHistoryCommand()
         }
 
-    def load_plugins(self):
+    def load_plugins(self): #loading plugins
         plugins_package = 'plugins'
         plugins_path = plugins_package.replace('.', '/')
         if not os.path.exists(plugins_path):
@@ -31,40 +31,40 @@ class Main:
             return
 
         for _, plugin_name, is_pkg in pkgutil.iter_modules([plugins_path]):
-            if is_pkg:
+            if is_pkg: #loading plugin modules
                 try:
                     plugin_module = importlib.import_module(f'{plugins_package}.{plugin_name}')
                     self.register_plugin_commands(plugin_module, plugin_name)
                 except ImportError as e:
                     print(f"Error importing plugin {plugin_name}: {e}")  
 
-    def register_plugin_commands(self, plugin_module, plugin_name):
+    def register_plugin_commands(self, plugin_module, plugin_name): #added for registering from plugins
         for item_name in dir(plugin_module):
             item = getattr(plugin_module, item_name)
             if isinstance(item, type) and issubclass(item, Command) and item is not Command:
-                self.command_list[plugin_name] = item()
+                self.command_list[plugin_name] = item() #for adding to the command list
     
-    def appendHistory(self, cmd, num1, num2):
-        file_path = 'csv/history.csv'
+    def appendHistory(self, cmd, num1, num2): #for saving data to history
+        file_path = 'csv/history.csv'  
         os.makedirs(os.path.dirname(file_path), exist_ok=True)
         if not os.path.isfile(file_path):
             pd.DataFrame(columns=['command', 'num1', 'num2']).to_csv(file_path, index=False)
 
-        existing_csv = pd.read_csv(file_path)
+        existing_csv = pd.read_csv(file_path)  #to read the history
         new_data = pd.DataFrame({
             'command': [cmd],
             'num1': [num1],
             'num2': [num2]    
         })
         updated_csv = pd.concat([existing_csv, new_data], ignore_index=True)
-        updated_csv.to_csv(file_path, index=False)
+        updated_csv.to_csv(file_path, index=False) #to save
     
-    def clearHistory(self): 
+    def clearHistory(self): #clear all the data
         file_path = 'csv/history.csv'
         if os.path.isfile(file_path):
             open(file_path, 'w').close()
     
-    def readHistory(self): 
+    def readHistory(self): #to read all the inputs being entered
         file_path = 'csv/history.csv'
         if os.path.isfile(file_path):
             df = pd.read_csv(file_path)
@@ -72,16 +72,16 @@ class Main:
         else:
             print("History not found.")
 
-    def repl(self):
+    def repl(self): # creates repl loop
         while True:
             val = input("Enter input: ")
             if val.lower() == "exit":
                 print("Exiting REPL.")
                 break
 
-            if val.lower() == "clear":
+            if val.lower() == "clear": 
                 self.clearHistory()
-                print("History cleared.")
+                print("History cleared.")  #clear all history
                 continue 
             elif val.lower() == "read":
                 self.readHistory()
@@ -95,7 +95,7 @@ class Main:
             cmd, num1, num2 = user_input[0], user_input[1], user_input[2]
 
             try:
-                if cmd in self.command_list:
+                if cmd in self.command_list: #executr all necessary commands
                     command = self.command_list[cmd]
                     command.execute(params=(num1, num2))
                     self.appendHistory(cmd, num1, num2)  
@@ -105,6 +105,7 @@ class Main:
                 print(f"Execution failed: {e}")
 
 if __name__ == "__main__":
-    app = Main()
-    app.load_plugins()
+    #creating the classes
+    app = Main() 
+    app.load_plugins() 
     app.repl()

@@ -10,10 +10,10 @@ class CommandHandler:
     def __init__(self):
         self.commands = {}
 
-    def register_command(self, command_name: str, command: Command):
+    def register_command(self, command_name: str, command: Command): #registering
         self.commands[command_name] = command
 
-    def append_to_history(self, full_command: str):
+    def append_to_history(self, full_command: str): #save to history
         file_path = 'csv/history.csv'
         
         try:

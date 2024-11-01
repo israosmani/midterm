@@ -12,7 +12,7 @@ from plugins.divide import DivideCommand
 from plugins.clear_history import ClearHistoryCommand
 from plugins.read_history import ReadHistoryCommand
 
-class Main:
+class MainApp:
     def __init__(self):
         self.command_list = { #adding all essential commands from plugins
             "add": AddCommand(),
@@ -72,7 +72,7 @@ class Main:
         else:
             print("History not found.")
 
-    def repl(self): # creates repl loop
+    def start(self): # creates repl loop
         while True:
             val = input("Enter input: ")
             if val.lower() == "exit":
@@ -106,6 +106,6 @@ class Main:
 
 if __name__ == "__main__":
     #creating the classes
-    app = Main() 
+    app = MainApp() 
     app.load_plugins() 
-    app.repl()
+    app.start()

@@ -1,2 +1,12 @@
-Command,Parameter 1,Parameter 2,Result,command
-,,,,clear_history
+command
+clear_history
+divide 4 2
+divide 4 2 9
+divide 4 0
+divide 4 a
+greet
+menu
+multiply 2 1
+read_history
+read_history extra_param
+subtract 2 1

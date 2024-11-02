@@ -1,6 +1,5 @@
 from commands import Command
 
 class GreetCommand(Command):
-    def execute(self, greeting="Hello", name="User"):
-        message = f"{greeting}, {name}!"
-        print(message)
+    def execute(self, params):
+        print("Hello, User!")

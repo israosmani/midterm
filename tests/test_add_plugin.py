@@ -1,20 +1,21 @@
 import pytest
-from app import MainApp
+from main import MainApp
+
 def test_app_add_command(capfd, monkeypatch):
-    # Set up inputs 
-    test_inputs = ['add 4 2', 'exit']
-    monkeypatch.setattr('builtins.input', lambda _: test_inputs.pop(0))
+    """Test that the REPL correctly handles the 'add' command and outputs the correct result."""
+    
+    inputs = iter(['add 3 2', 'exit'])
+    monkeypatch.setattr('builtins.input', lambda _: next(inputs))
 
-    # Initialize  application
     app = MainApp()
-    # Load plugins before starting the app
-    app.load_plugins()
-
+    
     with pytest.raises(SystemExit) as exit_info:
+        app.load_plugins()
         app.start()
+    
+    assert exit_info.value.code == 0, "Expected the app to exit with code 0"
 
-    assert exit_info.value.code == 0, "The application did not exit."
+    output, _ = capfd.readouterr()
 
-    output, error = capfd.readouterr()
-
-    assert "6" in output, "The command did not give the expected output."
+    # Assert that the output contains the expected result
+    assert "5" in output, "The output did not include the expected result of the 'add' command."

@@ -9,7 +9,7 @@ from plugins.multiply import MultiplyCommand
 from plugins.divide import DivideCommand
 from commands import Command
 from commands import CommandHandler
-from appLogger import AppLogger  # Changed import to use appLogger
+from appLogger import AppLogger  
 
 class MainApp:
     def __init__(self):
@@ -44,7 +44,7 @@ class MainApp:
                 AppLogger.info(f"Registered command '{plugin_name}' from plugin '{plugin_name}'.")
 
     def append_to_history(self, cmd, num1, num2):
-        file_path = 'data/history.csv'
+        file_path = 'csv/history.csv'
         
         os.makedirs(os.path.dirname(file_path), exist_ok=True)
 

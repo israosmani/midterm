@@ -1,11 +1,15 @@
 from commands import Command
 import pandas as pd
+import os
 
-#for clearing data
 class ClearHistoryCommand(Command):
-    def execute(self, params = None):
-        print("Clearing History")
-        file_path = "csv/history.csv"
+    def execute(self, params):
+        if len(params) > 0:
+            print("ERROR: Cannot accept parameters.")
+            return
 
-        clear_df = pd.DataFrame(columns = ["Command", "Parameter 1", "Parameter 2", "Result"])
-        clear_df.to_csv(file_path, index = False) 
+        history_file = 'csv/history.csv'  # Make sure this points to the correct file
+        headers = ['command']
+        pd.DataFrame(columns=headers).to_csv(history_file, index=False)
+        print("History cleared.")  # This should match the expected assertion
+

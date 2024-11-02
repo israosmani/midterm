@@ -7766,3 +7766,309 @@
 2024-11-01 21:03:47.499637 - INFO: Registered command 'subtract' from plugin 'subtract'.
 2024-11-01 21:03:47.499672 - INFO: Starting application...
 2024-11-01 21:03:47.500991 - INFO: Exiting application.
+2024-11-01 21:07:11.961065 - INFO: MainApp initialized.
+2024-11-01 21:07:11.961643 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:07:11.961885 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:07:11.961993 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:07:11.962155 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:07:11.962313 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:07:11.962402 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:07:11.962578 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:07:11.962648 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:07:11.962669 - INFO: Starting application...
+2024-11-01 21:07:11.965973 - INFO: Exiting application.
+2024-11-01 21:07:11.967866 - INFO: MainApp initialized.
+2024-11-01 21:07:11.967937 - INFO: Starting application...
+2024-11-01 21:07:11.967958 - INFO: Exiting application.
+2024-11-01 21:07:11.969464 - INFO: MainApp initialized.
+2024-11-01 21:07:11.969534 - INFO: Starting application...
+2024-11-01 21:07:11.969561 - INFO: Exiting application.
+2024-11-01 21:07:11.991405 - INFO: MainApp initialized.
+2024-11-01 21:07:11.991572 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:07:11.991644 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:07:11.991710 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:07:11.991778 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:07:11.991814 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:07:11.991845 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:07:11.991875 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:07:11.991924 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:07:11.991953 - INFO: Starting application...
+2024-11-01 21:07:11.991985 - INFO: Addition failed due to incorrect number of parameters
+2024-11-01 21:07:11.993290 - INFO: Exiting application.
+2024-11-01 21:07:11.996581 - INFO: MainApp initialized.
+2024-11-01 21:07:11.997030 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:07:11.997122 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:07:11.997165 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:07:11.997199 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:07:11.997248 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:07:11.997304 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:07:11.997376 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:07:11.997436 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:07:11.997479 - INFO: Starting application...
+2024-11-01 21:07:11.999211 - INFO: Exiting application.
+2024-11-01 21:07:12.000583 - INFO: MainApp initialized.
+2024-11-01 21:07:12.000718 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:07:12.000770 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:07:12.000825 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:07:12.000885 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:07:12.000943 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:07:12.000979 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:07:12.001010 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:07:12.001039 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:07:12.001064 - INFO: Starting application...
+2024-11-01 21:07:12.002941 - INFO: Exiting application.
+2024-11-01 21:07:12.004410 - INFO: MainApp initialized.
+2024-11-01 21:07:12.004545 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:07:12.004611 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:07:12.004677 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:07:12.004834 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:07:12.004952 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:07:12.005031 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:07:12.005068 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:07:12.005099 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:07:12.005123 - INFO: Starting application...
+2024-11-01 21:07:12.005145 - INFO: Division failed due to incorrect parameter count
+2024-11-01 21:07:12.006344 - INFO: Exiting application.
+2024-11-01 21:07:12.007350 - INFO: MainApp initialized.
+2024-11-01 21:07:12.007476 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:07:12.007550 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:07:12.007589 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:07:12.007622 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:07:12.007656 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:07:12.007706 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:07:12.007758 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:07:12.007816 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:07:12.007856 - INFO: Starting application...
+2024-11-01 21:07:12.007879 - INFO: Division failed 
+2024-11-01 21:07:12.008742 - INFO: Exiting application.
+2024-11-01 21:07:12.009680 - INFO: MainApp initialized.
+2024-11-01 21:07:12.009799 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:07:12.009863 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:07:12.009919 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:07:12.009972 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:07:12.010024 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:07:12.010077 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:07:12.010134 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:07:12.010187 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:07:12.010216 - INFO: Starting application...
+2024-11-01 21:07:12.010239 - INFO: Division failed 
+2024-11-01 21:07:12.011204 - INFO: Exiting application.
+2024-11-01 21:07:12.012281 - INFO: MainApp initialized.
+2024-11-01 21:07:12.012414 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:07:12.012480 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:07:12.012519 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:07:12.012570 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:07:12.012607 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:07:12.012659 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:07:12.012711 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:07:12.012749 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:07:12.012774 - INFO: Starting application...
+2024-11-01 21:07:12.013740 - INFO: Exiting application.
+2024-11-01 21:07:12.015237 - INFO: MainApp initialized.
+2024-11-01 21:07:12.016995 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:07:12.017101 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:07:12.017176 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:07:12.017252 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:07:12.017303 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:07:12.017346 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:07:12.017379 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:07:12.017410 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:07:12.017425 - INFO: Starting application...
+2024-11-01 21:07:12.018734 - INFO: Exiting application.
+2024-11-01 21:07:12.020445 - INFO: MainApp initialized.
+2024-11-01 21:07:12.020605 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:07:12.020727 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:07:12.020918 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:07:12.021033 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:07:12.021106 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:07:12.021144 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:07:12.021272 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:07:12.021340 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:07:12.021359 - INFO: Starting application...
+2024-11-01 21:07:12.023256 - INFO: Exiting application.
+2024-11-01 21:07:12.025343 - INFO: MainApp initialized.
+2024-11-01 21:07:12.025523 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:07:12.025619 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:07:12.025722 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:07:12.025836 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:07:12.025950 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:07:12.026026 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:07:12.026081 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:07:12.026135 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:07:12.026164 - INFO: Starting application...
+2024-11-01 21:07:12.027531 - INFO: Exiting application.
+2024-11-01 21:07:12.029108 - INFO: MainApp initialized.
+2024-11-01 21:07:12.029242 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:07:12.029310 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:07:12.029374 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:07:12.029429 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:07:12.029483 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:07:12.029536 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:07:12.029589 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:07:12.029643 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:07:12.029672 - INFO: Starting application...
+2024-11-01 21:07:12.030637 - INFO: Exiting application.
+2024-11-01 21:07:12.031832 - INFO: MainApp initialized.
+2024-11-01 21:07:12.032088 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:07:12.032171 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:07:12.032239 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:07:12.032368 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:07:12.032436 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:07:12.032474 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:07:12.032599 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:07:12.032823 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:07:12.032874 - INFO: Starting application...
+2024-11-01 21:07:12.033832 - INFO: Exiting application.
+2024-11-01 21:08:51.982539 - INFO: MainApp initialized.
+2024-11-01 21:08:51.982727 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:08:51.982944 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:08:51.983028 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:08:51.983221 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:08:51.983407 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:08:51.983501 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:08:51.983638 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:08:51.983715 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:08:51.983762 - INFO: Starting application...
+2024-11-01 21:08:51.986146 - INFO: Exiting application.
+2024-11-01 21:08:51.987349 - INFO: MainApp initialized.
+2024-11-01 21:08:51.987415 - INFO: Starting application...
+2024-11-01 21:08:51.987447 - INFO: Exiting application.
+2024-11-01 21:08:51.988365 - INFO: MainApp initialized.
+2024-11-01 21:08:51.988426 - INFO: Starting application...
+2024-11-01 21:08:51.988474 - INFO: Exiting application.
+2024-11-01 21:08:52.014085 - INFO: MainApp initialized.
+2024-11-01 21:08:52.014385 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:08:52.014534 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:08:52.014678 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:08:52.014821 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:08:52.014899 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:08:52.014971 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:08:52.015042 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:08:52.015110 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:08:52.015151 - INFO: Starting application...
+2024-11-01 21:08:52.015196 - INFO: Addition failed due to incorrect number of parameters
+2024-11-01 21:08:52.016590 - INFO: Exiting application.
+2024-11-01 21:08:52.019250 - INFO: MainApp initialized.
+2024-11-01 21:08:52.019414 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:08:52.019504 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:08:52.019580 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:08:52.019651 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:08:52.019725 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:08:52.019795 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:08:52.019864 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:08:52.019933 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:08:52.019973 - INFO: Starting application...
+2024-11-01 21:08:52.021849 - INFO: Exiting application.
+2024-11-01 21:08:52.023086 - INFO: MainApp initialized.
+2024-11-01 21:08:52.023253 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:08:52.023332 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:08:52.023405 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:08:52.023476 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:08:52.023544 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:08:52.023613 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:08:52.023680 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:08:52.023750 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:08:52.023790 - INFO: Starting application...
+2024-11-01 21:08:52.025122 - INFO: Exiting application.
+2024-11-01 21:08:52.026467 - INFO: MainApp initialized.
+2024-11-01 21:08:52.026697 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:08:52.026793 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:08:52.026860 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:08:52.026934 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:08:52.026997 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:08:52.027068 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:08:52.027132 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:08:52.027200 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:08:52.027241 - INFO: Starting application...
+2024-11-01 21:08:52.027272 - INFO: Division failed due to incorrect parameter count
+2024-11-01 21:08:52.029176 - INFO: Exiting application.
+2024-11-01 21:08:52.030685 - INFO: MainApp initialized.
+2024-11-01 21:08:52.030867 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:08:52.030951 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:08:52.031024 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:08:52.031094 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:08:52.031163 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:08:52.031230 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:08:52.031297 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:08:52.031364 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:08:52.031406 - INFO: Starting application...
+2024-11-01 21:08:52.031475 - INFO: Division failed 
+2024-11-01 21:08:52.033618 - INFO: Exiting application.
+2024-11-01 21:08:52.035231 - INFO: MainApp initialized.
+2024-11-01 21:08:52.035521 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:08:52.035679 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:08:52.035796 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:08:52.035887 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:08:52.036046 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:08:52.036223 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:08:52.036339 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:08:52.036406 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:08:52.036448 - INFO: Starting application...
+2024-11-01 21:08:52.036496 - INFO: Division failed 
+2024-11-01 21:08:52.037823 - INFO: Exiting application.
+2024-11-01 21:08:52.039850 - INFO: MainApp initialized.
+2024-11-01 21:08:52.040070 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:08:52.040150 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:08:52.040226 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:08:52.040290 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:08:52.040360 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:08:52.040431 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:08:52.040500 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:08:52.040572 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:08:52.040612 - INFO: Starting application...
+2024-11-01 21:08:52.042035 - INFO: Exiting application.
+2024-11-01 21:08:52.043562 - INFO: MainApp initialized.
+2024-11-01 21:08:52.043739 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:08:52.043825 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:08:52.043889 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:08:52.043958 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:08:52.044026 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:08:52.044096 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:08:52.044165 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:08:52.044233 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:08:52.044273 - INFO: Starting application...
+2024-11-01 21:08:52.045786 - INFO: Exiting application.
+2024-11-01 21:08:52.047060 - INFO: MainApp initialized.
+2024-11-01 21:08:52.047235 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:08:52.047317 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:08:52.047389 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:08:52.047450 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:08:52.047518 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:08:52.047587 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:08:52.047646 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:08:52.047714 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:08:52.047753 - INFO: Starting application...
+2024-11-01 21:08:52.049363 - INFO: Exiting application.
+2024-11-01 21:08:52.051460 - INFO: MainApp initialized.
+2024-11-01 21:08:52.051860 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:08:52.052120 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:08:52.052288 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:08:52.052535 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:08:52.052639 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:08:52.052716 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:08:52.052821 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:08:52.052903 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:08:52.052924 - INFO: Starting application...
+2024-11-01 21:08:52.055057 - INFO: Exiting application.
+2024-11-01 21:08:52.058250 - INFO: MainApp initialized.
+2024-11-01 21:08:52.058532 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:08:52.058641 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:08:52.058714 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:08:52.058786 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:08:52.058856 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:08:52.058924 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:08:52.059058 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:08:52.059131 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:08:52.059171 - INFO: Starting application...
+2024-11-01 21:08:52.060787 - INFO: Exiting application.
+2024-11-01 21:08:52.062224 - INFO: MainApp initialized.
+2024-11-01 21:08:52.062423 - INFO: Registered command 'add' from plugin 'add'.
+2024-11-01 21:08:52.062537 - INFO: Registered command 'clear_history' from plugin 'clear_history'.
+2024-11-01 21:08:52.062628 - INFO: Registered command 'divide' from plugin 'divide'.
+2024-11-01 21:08:52.062709 - INFO: Registered command 'greet' from plugin 'greet'.
+2024-11-01 21:08:52.062789 - INFO: Registered command 'menu' from plugin 'menu'.
+2024-11-01 21:08:52.062899 - INFO: Registered command 'multiply' from plugin 'multiply'.
+2024-11-01 21:08:52.063015 - INFO: Registered command 'read_history' from plugin 'read_history'.
+2024-11-01 21:08:52.063132 - INFO: Registered command 'subtract' from plugin 'subtract'.
+2024-11-01 21:08:52.063188 - INFO: Starting application...
+2024-11-01 21:08:52.064677 - INFO: Exiting application.
